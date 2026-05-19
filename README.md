@@ -1,2 +1,2 @@
 # java-practice
-repository for practicing java
+Repository for learning Java through daily coding practice
